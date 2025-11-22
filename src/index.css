@@ -1,0 +1,11 @@
+/* Montserrat (body) + Teko (headings) */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&family=Teko:wght@300;400;500;600;700&display=swap');
+
+/* Optional default body font */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+
+@import "tailwindcss";
